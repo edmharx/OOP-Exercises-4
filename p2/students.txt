@@ -1,0 +1,27 @@
+grades = {"Donny Pangilinan": "100",
+"Ysabel Ortega": "99",
+"Kisses Delavin": "98",
+"Ivana Alawi": "97",
+"Heart Evangelista": "96",
+"Solenn Heussaff": "95",
+"Erwan Heussaff": "94",
+"Matteo Guidicelli": "93",
+"Derek Ramsay": "92",
+"Denise Laurel": "91",
+"Ellen Adarna": "90",
+"Paul Jake Castillo": "90",
+"Slater Young": "90",
+"Maine Mendoza": "90",
+"Kris Aquino": "90",
+"Mikee Cojuangco Jaworski": "90",
+"Sharon Cuneta": "90",
+"Beauty Gonzalez": "90",
+"Richard Yap": "90",
+"Lucy Torres Gomez": "90",}
+
+
+
+
+
+
+
