@@ -1,4 +1,4 @@
-grades = {"Donny Pangilinan": "100",
+{"Donny Pangilinan": "100",
 "Ysabel Ortega": "99.6",
 "Kisses Delavin": "98.4",
 "Ivana Alawi": "97",
@@ -17,7 +17,7 @@ grades = {"Donny Pangilinan": "100",
 "Sharon Cuneta": "90",
 "Beauty Gonzalez": "90",
 "Richard Yap": "90",
-"Lucy Torres Gomez": "90",}
+"Lucy Torres Gomez": "90"}
 
 
 
