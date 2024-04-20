@@ -10,7 +10,8 @@ def find_highest_gwa(directory):
         highest_gwa = None
         highest_gwa_student = None
         for key, value in data_dict.items():
-            if highest_gwa is None or value > highest_gwa:
+            float_value = float(value)
+            if highest_gwa is None or float_value > float(highest_gwa):
                 highest_gwa_student = key
                 highest_gwa = value
         return highest_gwa_student, highest_gwa

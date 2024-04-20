@@ -1,4 +1,4 @@
-{"Donny Pangilinan": "100",
+{"Donny Pangilinan": "78",
 "Ysabel Ortega": "99.6",
 "Kisses Delavin": "98.4",
 "Ivana Alawi": "97",
