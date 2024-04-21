@@ -10,4 +10,8 @@ def square_cube():
                 square_root = line ** 2
                 with open("double.txt", "a") as squared_output:
                     squared_output.write(square_root)
+            else:
+                cube_root = line ** 3 #for odd numbers
+                with open("triple.txt", "a") as cube_output:
+                    cube_output.write(cube_root)
             
