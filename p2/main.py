@@ -18,4 +18,4 @@ def find_highest_gwa(directory):
 
 
 key, value = find_highest_gwa(directory)
-print (f"{key} has the highest GWA with with {value}")
+print (f"{key} has the highest GWA with {value}")
